@@ -1,1 +1,1 @@
-# Customer-Churn-and-Risk-Analysis
+# Customer-Churn-Risk-Analysis
